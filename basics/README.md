@@ -30,4 +30,6 @@ This directory contains basic shell scripts.
   Changes the working directory to the previous one.
 - **11-lists**  
   Lists all files (including hidden ones) in the current directory, the parent directory, and `/boot`, in long format.
+- **12-file_type**  
+  Prints the type of the file named `iamafile` located in `/tmp` using the `file` command.
 
