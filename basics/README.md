@@ -24,4 +24,6 @@ This directory contains basic shell scripts.
   Creates a directory named `my_first_directory` inside the `/tmp/` directory.
 - **7-movethatfile**  
   Moves the file `betty` from `/tmp/` to `/tmp/my_first_directory/`.
+- **9-firstdirdeletion**  
+  Deletes the directory `my_first_directory` from `/tmp/`.
 
