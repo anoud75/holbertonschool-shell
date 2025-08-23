@@ -1,10 +1,6 @@
-# Holberton School - Shell
+# Holberton Shell
 
-This repository contains shell scripts for the Holberton School Shell project.
+This repository contains shell basics scripts for the Holberton School project.
 
-## Project Structure
-
-- `basics/` - Directory containing basic shell scripts
-
-## Author
-* anoud75
+Each script performs a simple shell task such as printing the current directory,
+listing contents, or changing directories.
