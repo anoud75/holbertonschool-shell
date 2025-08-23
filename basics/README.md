@@ -28,4 +28,6 @@ This directory contains basic shell scripts.
   Deletes the directory `my_first_directory` from `/tmp/`.
 - **10-back**  
   Changes the working directory to the previous one.
+- **11-lists**  
+  Lists all files (including hidden ones) in the current directory, the parent directory, and `/boot`, in long format.
 
