@@ -20,4 +20,6 @@ This directory contains basic shell scripts.
 - **5-listfilesdigitonly**  
   Displays the contents of the current directory in long format,  
   including hidden files, with user and group IDs shown numerically.
+- **6-firstdirectory**  
+  Creates a directory named `my_first_directory` inside the `/tmp/` directory.
 
