@@ -15,4 +15,6 @@ This directory contains basic shell scripts.
 
 - **3-listfiles**  
   Displays the contents of the current directory in a long format.
+- **4-listmorefiles**  
+  Displays the contents of the current directory, including hidden files, in a long format.
 
