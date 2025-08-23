@@ -1,1 +1,1 @@
-# Shell Basics
+# Scripts for basics tasks
