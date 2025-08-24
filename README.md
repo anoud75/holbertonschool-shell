@@ -10,3 +10,4 @@ listing contents, or changing directories.
 
 - permissions/1-who_am_i: prints the effective username of the current user
 - permissions/1-who_am_i: prints effective username
+- io_redirections_and_filters/0-hello_world: prints "Hello, World"
