@@ -9,3 +9,4 @@ listing contents, or changing directories.
 - **basics/**: Directory containing basic shell scripts.
 
 - permissions/1-who_am_i: prints the effective username of the current user
+- permissions/1-who_am_i: prints effective username
